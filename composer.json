@@ -1,0 +1,26 @@
+{
+	"name": "skyzyx/collection",
+	"type": "library",
+	"description": "Enhanced object-oriented array class. Inspired by Ruby and JavaScript.",
+	"keywords": ["array", "oop"],
+	"homepage": "http://github.com/skyzyx/collection",
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "Ryan Parman",
+			"homepage": "http://ryanparman.com"
+		},
+ 		{
+			"name": "Contributors",
+			"homepage": "https://github.com/skyzyx/skyzyx/contributors"
+		}
+	],
+	"require": {
+		"php": ">=5.3"
+	},
+	"autoload": {
+		"psr-0": {
+			"Skyzyx\\Components\\Collection": "src/Skyzyx/Components/Collection.php"
+		}
+	}
+}

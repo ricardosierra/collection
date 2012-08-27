@@ -1,0 +1,7 @@
+.DS_Store
+build/*
+generation/v1/source/*
+src/vendor/
+tests/analyze/p*
+tests/analyze/behat*
+*.sublime-*
